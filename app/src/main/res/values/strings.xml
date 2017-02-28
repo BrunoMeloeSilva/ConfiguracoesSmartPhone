@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Configuracoes</string>
-    <string name="msg">Olá Mundo !</string>
+    <string name="msg">As informações sairam no logCat.</string>
 </resources>
